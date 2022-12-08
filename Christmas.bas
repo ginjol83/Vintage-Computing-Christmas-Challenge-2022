@@ -1,9 +1,8 @@
 10 GR.0:DIM STAR$(290)
-15 DIM CNTRL
+15 DIM CNTRL(10)
 20 STAR$ = "    *       *        **     **    "
 25 FOR I=1 TO 34
-30 IF (I==17) THEN ? "\N"
-35 ? STAR$(1,I)
+30 IF (I=17) THEN ? STAR$(1,I)
 40 NEXT I
 
 
