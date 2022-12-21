@@ -1,0 +1,20 @@
+#Reglas
+##No revele el código o incluso el tamaño exacto del código a nadie. Esto será un desafío personal.
+##Las presentaciones serán definitivas. Es posible que pueda actualizar su entrada como máximo una vez, pero no hay garantía para eso.
+
+#Formato
+
+Envíe lo siguiente dentro de un archivo zip :
+
+una imagen (captura de pantalla)  del resultado (del objeto) [p. ej. result.png]
+Archivo ejecutable (por ejemplo, código ensamblador compilado, archivo BASIC que se ejecuta en el host, etc.) [por ejemplo, star.prg, star.bin, star.com, ...]
+
+Código fuente:
+código fuente como archivo de texto legible (por ejemplo, código BASIC, código ensamblador, etc.) [por ejemplo, source.txt]
+una imagen del código fuente enumerado (en la máquina nativa o en la máquina codificada); se puede integrar con la imagen del resultado (opcional) [ej. source.png]
+
+
+id_archivo.diz:
+ver el próximo capítulo a continuación
+
+El archivo zip podría llamarse así: <nombre de usuario>_<sistema>_<idioma>_vc3-2022.zip, por ejemplo, joe_cpc_basic_vc3-2022.zip
