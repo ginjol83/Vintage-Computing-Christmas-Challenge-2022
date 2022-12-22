@@ -1,0 +1,20 @@
+Christmas Challenge C version
+
+Author: Ginjol 
+Category: Christmas Challenge
+System:   Atari XE/XL
+Language: C
+Len source code: 457 bytes
+Len exe file:    3,7 KBytes
+
+Instructions:
+
+in Atari800 linux emulator with f1 key and find .xex file
+
+Description:
+
+Its only a printf sentence
+
+Comments:
+
+It's a developed in C for Atari 8 bits machines, compiled with cl65 compiler. the code is compatible with commodore 65 machines
